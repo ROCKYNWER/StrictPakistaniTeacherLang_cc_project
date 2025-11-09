@@ -1,0 +1,42 @@
+Line 1: KEYWORD → Khamoshi
+Line 1: ERROR → { (invalid token)
+Line 2: KEYWORD → Kitne-number
+Line 2: IDENTIFIER → marks
+Line 2: OPERATOR → likh-do
+Line 2: INTEGER → 33
+Line 2: PUNCTUATION → bas!
+Line 3: KEYWORD → Dekhlo
+Line 3: IDENTIFIER → marks
+Line 3: OPERATOR → zyada
+Line 3: INTEGER → 50
+Line 3: ERROR → { (invalid token)
+Line 4: KEYWORD → Jawab-do
+Line 4: ERROR → " (invalid token)
+Line 4: IDENTIFIER → Pass
+Line 4: ERROR → " (invalid token)
+Line 4: PUNCTUATION → bas!
+Line 5: ERROR → } (invalid token)
+Line 5: KEYWORD → Nahintoh
+Line 5: ERROR → { (invalid token)
+Line 6: KEYWORD → Jawab-do
+Line 6: ERROR → " (invalid token)
+Line 6: IDENTIFIER → Fail
+Line 6: ERROR → " (invalid token)
+Line 6: PUNCTUATION → bas!
+Line 7: ERROR → } (invalid token)
+Line 8: KEYWORD → Naam-batao
+Line 8: IDENTIFIER → student
+Line 8: OPERATOR → likh-do
+Line 8: ERROR → " (invalid token)
+Line 8: IDENTIFIER → Shahab
+Line 8: IDENTIFIER → Ahmad
+Line 8: ERROR → " (invalid token)
+Line 8: PUNCTUATION → bas!
+Line 9: ERROR → / (invalid token)
+Line 9: ERROR → / (invalid token)
+Line 9: IDENTIFIER → chup
+Line 9: IDENTIFIER → This
+Line 9: IDENTIFIER → is
+Line 9: IDENTIFIER → a
+Line 9: IDENTIFIER → test
+Line 10: ERROR → } (invalid token)
